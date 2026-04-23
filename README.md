@@ -2,8 +2,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222,100:a855f7&height=140&section=header&text=¡Hola%20👋!%20Soy%20MrBrad8989&fontSize=32&fontColor=fff"/>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=FullStack+Developer;Apasionado+por+aprender+e+innovar;¡Bienvenido+a+mi+GitHub!&center=true&width=600&height=30&color=a855f7&vCenter=true&size=18&pause=2000" alt="Typing SVG" />
-  
 </div>
 
 ---
