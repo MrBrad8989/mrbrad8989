@@ -1,7 +1,5 @@
 <div align="center">
-  
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:222,100:a855f7&height=140&section=header&text=¡Hola%20!%20Soy%20Re-MrBrad&fontSize=32&fontColor=fff](https://capsule-render.vercel.app/api?type=blur&height=300&color=0040ff&text=¡Hola!%20soy%20Re-MrBrad&section=header&reversal=false&textBg=false&fontColor=0c2b87&animation=fadeIn&desc=Bienvenido%20a%20mi%20perfil!&descAlignY=69)"/>
-  
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0040ff&text=¡Hola!%20soy%20Re-MrBrad&section=header&reversal=false&textBg=false&fontColor=006AFF&animation=fadeIn&descAlignY=69"/>
 </div>
 
 ---
